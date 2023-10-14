@@ -10,7 +10,7 @@ on:
   workflow_dispatch:
 
 env:
-  FRONTEND_WEBAPP_DEV: sofia-fe-dev
+  FRONTEND_WEBAPP_DEV: sofia2-fe-dev
 
 jobs:
   build:
